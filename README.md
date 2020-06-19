@@ -1,1 +1,1 @@
-# mocule-terraform
+# module-terraform
